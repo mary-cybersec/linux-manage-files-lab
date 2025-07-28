@@ -27,4 +27,4 @@ The following tasks were completed in a live Linux environment:
 
 ## Screenshots
 
-Screenshots from the live lab environment are included in the repositorywithin the attached pdf.
+Screenshots from the live lab environment are included in the repository within the attached pdf.
